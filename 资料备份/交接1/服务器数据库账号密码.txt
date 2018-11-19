@@ -1,0 +1,7 @@
+·şÎñÆ÷
+ip: 182.61.26.179
+password:2018@gxnn
+
+database£º
+user£ºroot
+password£º990205
